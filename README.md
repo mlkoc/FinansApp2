@@ -1,2 +1,2 @@
-# FinansApp2
-E-MAĞAZA OTOMASYON SİSTEMİ
+# Isletim Sistemleri
+
